@@ -46,7 +46,6 @@ class _MyHomePageState extends State<MyHomePage> {
   bool isVisible = false;
   List<LatLng> routpoints = [LatLng(52.05884, -1.345583)];
 
-  // Create a reference to the 'route' collection in Firestore
   final CollectionReference routeCollection = FirebaseFirestore.instance.collection('route');
 
   @override
@@ -105,7 +104,6 @@ class _MyHomePageState extends State<MyHomePage> {
                       await routeCollection.add({
                         'start': start.text,
                         'end': end.text,
-                        // Add other data you want to store
                       });
                     },
                     child: Text('Press')
