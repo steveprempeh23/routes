@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">233339303555</string>
+    <string name="google_api_key" translatable="false">AIzaSyCAUGL3FZqDPIPfJMt3PHfE8sl6KEvLtgA</string>
+    <string name="google_app_id" translatable="false">1:233339303555:android:7b014cfcc6a921d2258db6</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCAUGL3FZqDPIPfJMt3PHfE8sl6KEvLtgA</string>
+    <string name="google_storage_bucket" translatable="false">route-stores.appspot.com</string>
+    <string name="project_id" translatable="false">route-stores</string>
+</resources>

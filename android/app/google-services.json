@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "233339303555",
+    "project_id": "route-stores",
+    "storage_bucket": "route-stores.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233339303555:android:7b014cfcc6a921d2258db6",
+        "android_client_info": {
+          "package_name": "com.example.route_between_two_points"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAUGL3FZqDPIPfJMt3PHfE8sl6KEvLtgA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
